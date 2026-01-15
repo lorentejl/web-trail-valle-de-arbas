@@ -8,7 +8,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://vallearbas.es/",
+  site: "https://valledearbas.es/",
   // site: 'https://mendana.github.io',
   // base: '/web-trail-valle-arbas',
   vite: {

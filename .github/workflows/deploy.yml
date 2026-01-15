@@ -31,7 +31,7 @@ jobs:
         run: npm run build
 
       - name: Add CNAME for custom domain
-        run: echo "vallearbas.es" > dist/CNAME
+        run: echo "valledearbas.es" > dist/CNAME
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
