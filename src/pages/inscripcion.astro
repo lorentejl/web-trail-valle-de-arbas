@@ -30,11 +30,35 @@ import SectionTitle from '../components/SectionTitle.astro';
         target="_blank"
         rel="noopener noreferrer"  
       >
-        <button class="px-6 py-2 bg-[#e49a69] text-sm text-white rounded hover:bg-[#d88b5c] transition-colors focus:ring-2 focus:ring-[#e49a69] focus:ring-opacity-50 cursor-pointer font-semibold disabled:opacity-50 disabled:cursor-not-allowed" disabled>
+        <button class="px-6 py-2 bg-[#e49a69] text-sm text-white rounded hover:bg-[#d88b5c] transition-colors focus:ring-2 focus:ring-[#e49a69] focus:ring-opacity-50 cursor-pointer font-semibold disabled:opacity-50 disabled:cursor-not-allowed">
           Inscribirse
         </button>
       </a>
     </div>
+  </section>
+
+  <section class="section-card">
+    <SectionTitle
+      title="Información importante"
+      subtitle=""
+    />
+      <ul>
+        <!-- <li>
+          <strong>Plazo:</strong> Las inscripciones estarán abiertas hasta el 1 de mayo de 2025 o hasta completar el cupo de participantes.
+        </li> -->
+        <li>
+          <strong>Límite de participantes:</strong>
+          <ul class="nested-list">
+            <li>Trail Arbas Infinito: 150 corredores</li>
+            <li>Trail Arbas-Luna: 150 corredores</li>
+            <li>Trail Camino de la Cuencha: 50 corredores</li>
+            <li>Trail Descenso Vertical Pico el Castro: 50 corredores</li>
+          </ul>
+        </li>
+        <li>
+          <strong>Documentación:</strong> Para recoger el dorsal será necesario presentar DNI y, en el caso de federados, la tarjeta federativa.
+        </li>
+      </ul>
   </section>
   <section class="section-card">
     <!-- <SectionTitle
