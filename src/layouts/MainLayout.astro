@@ -10,7 +10,6 @@ import SectionTitle from '../components/SectionTitle.astro';
 import NewsSection from '../components/news/NewsSection.astro';
 import PerfilInfinito from '../assets/imgCategorias/perfilInfinito.avif';
 
-
 const { title, description } = Astro.props;
 
 //Images
@@ -229,12 +228,7 @@ const sponsors: Sponsor[] = [
          Creemos que el Trail debe tener presencia también en los menores, por lo que tenemos categría para <span class="text-gradient font-bold">INFANTILES Y CADETES</span>.
         </p>
       </div>
-  <Image
-          src={PerfilInfinito}
-          alt="Perfil de la carrera Trail Arbas Infinito"
-          class="w-full h-auto mb-4"
-          loading="lazy"
-        />
+
       <div class="reveal-element">
         <Carousel
           images={[
