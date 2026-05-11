@@ -1,5 +1,5 @@
 ---
-title: Descubre nuestra Nueva carrera del Viernes al atardecer
+title: Descubre nuestra Nueva carrera del Viernes al atardecer. Por motivos de Logística, CARRERA ANULADA.
 description: La carrera será unicamente de bajada (450m) desde el Pico el Castro hasta el pueblo de Cubillas de Arbas al atardecer...estate atento que sólo hay 50 plazas (con autobús de subida)
 pubDate: 2026-01-15
 image: /images/noticias/noticia2.jpg
