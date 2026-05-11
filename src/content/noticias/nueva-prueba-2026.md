@@ -10,7 +10,7 @@ featured: true
 
 # Descubre nuestra Nueva carrera del Viernes al atardecer
 
-Nos complace anunciar que ya el viernes vamos a inaugurar nueva carrera **Descenso del pico el Castro**.¿Has corrido una carrera sólo de descenso?, ¿y al anochecer?...ATRÉVETE SOLO HAY 50 plazas
+CARRERA ANULADA POR MOTIVOS DE LOG´SITICA. Nos complace anunciar que ya el viernes vamos a inaugurar nueva carrera **Descenso del pico el Castro**.¿Has corrido una carrera sólo de descenso?, ¿y al anochecer?...ATRÉVETE SOLO HAY 50 plazas
 
 ## Características de la Carrera
 Se trata de una bajada de 5km y casi 450 m de desnivel negativo por senderos rápidos al anochecer...las vistas al valle te dejarán con la boca abierta. 
